@@ -57,6 +57,6 @@ plugins:
 
 defaults:
   - scope:
-      path: "assets/images"
+      path: "docs/assets/images"
     values:
       image: true
