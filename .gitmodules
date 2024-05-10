@@ -1,0 +1,6 @@
+[submodule "vale-splunk-style-guide"]
+	path = vale-splunk-style-guide
+	url = https://github.com/splunk/vale-splunk-style-guide
+[submodule "TA-ibm_datapower"]
+	path = docs/TA-ibm_datapower
+	url = https://github.com/diogofgm/TA-ibm_datapower/
